@@ -7,8 +7,11 @@ License [MIT](./license.md)
 ---
 
 ### Содержание:
-1. [git init]()
-2. [git add](./add.md)
+
+1. [Установка git](./git%20install.md)
+2. [Настройка git](./git%20configuration.md)
+3. [git init](./init.md)
+4. [git add](./add.md)
 
 ---
 
