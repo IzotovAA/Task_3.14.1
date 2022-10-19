@@ -12,9 +12,13 @@ License [MIT](./license.md)
 2. [Настройка git](./git%20configuration.md)
 3. [git init](./init.md)
 4. [git add](./add.md)
-5. [git rm]()
-6. [git commit](./commit.md)
-7. [git push]()
+5. [git reset](./reset.md)
+6. [git rm](./rm.md)
+7. [git status](./status.md)
+8. [git commit](./commit.md)
+9. [git push](./push.md)
+10. [git pull](./pull.md)
+11. [git log](./log.md)
 
 ---
 
