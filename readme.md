@@ -2,7 +2,7 @@
 
 License [MIT](./license.md)
 
-![git-logo](./assets/Git-Logo-2Color.png)
+[![git-logo](./assets/Git-Logo-2Color.png)](https://git-scm.com/)
 
 ---
 
@@ -19,6 +19,8 @@ License [MIT](./license.md)
 9. [git push](./push.md)
 10. [git pull](./pull.md)
 11. [git log](./log.md)
+12. [git show](./show.md)
+13. [git clone](./clone.md)
 
 ---
 

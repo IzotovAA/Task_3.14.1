@@ -11,3 +11,5 @@ git --version
 Если git установлен то в терминале отобразится версия программы.
 
 Для установки git на ваш компьюетр зайдите на сайт [git](https://git-scm.com/downloads) и скачайте установщик для вашей операционной системы, и запустите его, далее следуйте инструкциям.
+
+[![https://git-scm.com/downloads](./assets/Git%20install.jpg)](https://git-scm.com/downloads)

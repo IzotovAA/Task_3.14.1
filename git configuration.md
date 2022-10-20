@@ -23,3 +23,5 @@ git config --list
 ```
 
 И найти там строчки: **user.name** и **user.email**, там должны быть ваши **имя** и **почта**.
+
+![picture](./assets/Name%20%26%20e-mail.jpg)
